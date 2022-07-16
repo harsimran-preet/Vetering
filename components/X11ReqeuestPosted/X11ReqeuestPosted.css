@@ -1,0 +1,67 @@
+.x11-reqeuest-posted {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.group-8831 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4.0px;
+  margin-top: 176px;
+  min-height: 252px;
+  width: 213px;
+}
+
+.title {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-right: 2.0px;
+  margin-top: 216px;
+  min-height: 36px;
+  min-width: 211px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.logo-1 {
+  height: 181px;
+  margin-right: 3.0px;
+  margin-top: 10px;
+  width: 200px;
+}
+
+.group-16 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 192px;
+  min-width: 317px;
+}
+
+.overlap-group {
+  align-items: center;
+  background-color: var(--blue-jeans);
+  border-radius: 8px;
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  min-width: 315px;
+  padding: 0 136px;
+}
+
+.login {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 42px;
+  text-align: center;
+  white-space: nowrap;
+}
+

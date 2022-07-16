@@ -1,0 +1,72 @@
+.x08-verification-complete {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.group-8831-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 288px;
+  margin-left: 3.0px;
+  margin-top: 176px;
+  min-width: 216px;
+}
+
+.overlap-group1-6 {
+  height: 227px;
+  margin-bottom: -155px;
+  position: relative;
+  width: 214px;
+}
+
+.logo-1-1 {
+  height: 181px;
+  left: 7px;
+  position: absolute;
+  top: 46px;
+  width: 200px;
+}
+
+.number-verified-seccessfully {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.group-16-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 156px;
+  min-width: 317px;
+}
+
+.overlap-group-12 {
+  align-items: center;
+  background-color: var(--blue-jeans);
+  border-radius: 8px;
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  min-width: 315px;
+  padding: 0 136px;
+}
+
+.login-8 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 42px;
+  text-align: center;
+  white-space: nowrap;
+}
+
